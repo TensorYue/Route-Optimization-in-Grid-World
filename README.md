@@ -10,6 +10,8 @@ We could, of course, find a better way to escape. However, if the maze is large 
 ## Value Iteration vs. Policy Iteration
 Value iteration is designed to search for the optimized policy, as the policy could converge faster than the convergence of value. (Here is an example for showing these difference https://gibberblot.github.io/rl-notes/single-agent/value-iteration.html)
 
+## Code Instruction
+
 ## Result with Value Iteration
 ![Map1](https://user-images.githubusercontent.com/112973740/220216824-35b297f4-189c-4718-8b36-f92079f3713d.png)
 ![Value1](https://user-images.githubusercontent.com/112973740/220216830-1a0792cf-48c5-4c40-be5a-99ba57fb7bde.png)
