@@ -68,9 +68,6 @@ Grid Map, Value Map, Route Map
 ![2 9](https://user-images.githubusercontent.com/112973740/220483500-5accf958-ccf6-44b6-9ed0-b2163ece5d7d.png)
  (set 2.3)
 
-### Episode 3 (High Action Cost)
-
-
 The policy of action is similar to the gradient descent, where the agent would always choose the direction that has the highest value of state (or take the action that has highest value of action).
 ## Conclusion
 The optimization process is controlled by Epsilon Greedy. As shown in Episode 1, if we allow the agent to explore the system with a proper Epsilon, it would try to balance the cost and the safty by avoiding the traps. However, if we always pick the Greedy action, it would always follow the fastest route, then consider the probibility of making mistakes.
