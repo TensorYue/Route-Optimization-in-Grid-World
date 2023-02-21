@@ -73,7 +73,7 @@ Grid Map, Value Map, Route Map
 
 The policy of action is similar to the gradient descent, where the agent would always choose the direction that has the highest value of state (or take the action that has highest value of action).
 ## Conclusion
-The optimization process is controlled by Epsilon Greedy. As shown in Episode 1, if we allow the agent to explore the system with a proper Epsilon, it would try to balance the cost and the chance of making mistake. However, if we always pick the Greedy action, it would always follow the fastest route.
+The optimization process is controlled by Epsilon Greedy. As shown in Episode 1, if we allow the agent to explore the system with a proper Epsilon, it would try to balance the cost and the safty by avoiding the traps. However, if we always pick the Greedy action, it would always follow the fastest route, then consider the probibility of making mistakes.
 
 ## Reference
 [1] Sutton, R.S, Barto, A.G (2020) Reinforcement Learning: An Introduction
