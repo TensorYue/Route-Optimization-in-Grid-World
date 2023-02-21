@@ -1,11 +1,11 @@
 # Route-Optimization-in-Grid-World
 A route optimization program using Value Iteration.
 ## Introduction
-Imaging that we are in the grid world (Blue), there are several blocks (Black) & traps (Red) in this maze, and your goal is to arrive the destination (Green) as fast as we can. Meanwhile, we might want to avoid the traps, as a small mistake would be fatal. 
+Imaging that we are in the grid world (Blue), there are several blocks (Black) & traps (Red) in this maze, and our goal is to arrive the destination (Green) as fast as we can. Meanwhile, we might want to avoid the traps, as a small mistake would be fatal. 
 
 ![Map1](https://user-images.githubusercontent.com/112973740/220216808-8cf8483f-72d5-426a-9431-74ef1f9db24a.png)
 
-We could, of course, find a better way to escape. However, if the maze is large enough, it is relatively hard to optimize the route you have planed. In this case, we can apply value/policy iteration from Reinforcement Learning, to create an agent that take actions for us.
+We could, of course, find a better way to escape. However, if the maze is large enough, it is relatively hard to optimize the route we have planed. In this case, we can apply value/policy iteration from Reinforcement Learning, to create an agent that take actions for us.
 
 ## Value Iteration vs. Policy Iteration
 Value Iteration and Policy Iteration are both based on Markov Decision Process. While Value Iteration are updating Value of states, Policy Iteration tries to update Policy at each iteration.
