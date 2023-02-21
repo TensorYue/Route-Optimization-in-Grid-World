@@ -10,7 +10,8 @@ We could, of course, find a better way to escape. However, if the maze is large 
 ## Value Iteration vs. Policy Iteration
 Value Iteration and Policy Iteration are both based on Markov Decision Process. While Value Iteration are updating Value of states, Policy Iteration tries to update Policy at each iteration.
 
-Value iteration is designed to search for the optimized policy, as the policy could converge faster than the convergence of value. (Here is an example for showing these difference https://gibberblot.github.io/rl-notes/single-agent/value-iteration.html)
+Value iteration is designed to search for the optimized policy, as the policy could converge faster than the convergence of value. 
+Here is a detailed introduction about Value Iteration and Policy Iteration from The University of Melbourne. https://gibberblot.github.io/rl-notes/single-agent/value-iteration.html [2]
 
 Value Iteration is generally easier for coding, thus, we would use Value Iteration to optimize the route.
 
