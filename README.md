@@ -43,7 +43,7 @@ Grid Map, Value Map, Route Map
 ![Map3](https://user-images.githubusercontent.com/112973740/220217488-747e8c6d-500c-4032-a1c9-b1f31e0f642d.png)
 ![Value3](https://user-images.githubusercontent.com/112973740/220217498-739f5528-87f3-4355-a95e-a89e4f8b4b02.png)
 ![Route3](https://user-images.githubusercontent.com/112973740/220217511-73349d3c-4827-4155-918c-7eee5a99c558.png)
-### Episode 2 (Partial connected)
+### Episode 2 (Partially connected)
 ![1Map](https://user-images.githubusercontent.com/112973740/220220536-f0411c7e-e16b-45ea-9189-da498f924a28.png)
 ![1Value](https://user-images.githubusercontent.com/112973740/220220551-1120fe74-576f-4007-adda-628d1f660294.png)
 ![1Route](https://user-images.githubusercontent.com/112973740/220220561-a9c2b82b-a60b-4d0e-8d4c-e557a168d20e.png)
