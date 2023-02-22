@@ -13,6 +13,9 @@ We could, of course, find a better way to escape. However, if the maze is large 
 ## Value Iteration vs. Policy Iteration
 Value Iteration and Policy Iteration are both based on Markov Decision Process. While Value Iteration are updating Value of states, Policy Iteration tries to update Policy at each iteration.
 
+### Bellman optimality equation
+![image](https://user-images.githubusercontent.com/112973740/220494161-ffadf366-338d-4d50-a6dc-81375c17c90d.png)
+
 Value iteration is designed to search for the optimized policy, as the policy could converge faster than the convergence of value. 
 Here is a detailed introduction about Value Iteration and Policy Iteration from The University of Melbourne. https://gibberblot.github.io/rl-notes/single-agent/value-iteration.html [2]
 
